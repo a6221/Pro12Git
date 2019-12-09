@@ -6,5 +6,6 @@ public class HelloWorld {
 
 		System.out.println("edit by left");
 		System.out.println("edit by right");
+		System.out.println("edit by feature_A");
 	}
 }
